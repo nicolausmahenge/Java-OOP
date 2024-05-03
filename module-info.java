@@ -1,3 +1,7 @@
+//code to implement polymorphism
+
+
+
 class Animal{
 	public void animalSound() {
 		System.out.println("The animal makes sound");
